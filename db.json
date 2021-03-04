@@ -1,5 +1,5 @@
 {
-	"Status_MMCPR": [{
+	"Status_": [{
 			"Status": "Appointment Confirmed"
 		},
 		{
@@ -43,7 +43,7 @@
 
 		,
 
-	"Location_MMCPR": [{
+	"Location_": [{
 			"_id": "6037ea9645aabf02276c9d38",
 			"Locations": "1175 West Broadway"
 		},
