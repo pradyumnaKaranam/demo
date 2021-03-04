@@ -12,21 +12,7 @@
 {"appointmentType":" CAN - VIRTUAL PHONE"},
 {"appointmentType":" CAN - VIRTUAL VIDEO"},
 {"appointmentType":" CAN - VIRTUAL VIDEO/ AMWELL"},
-{"appointmentType":" CAN - VIRTUAL VISIT"},
-{"appointmentType":" NEXTGEN VIRTUAL PHONE"},
-{"appointmentType":" NEXTGEN VIRTUAL VIDEO"},
-{"appointmentType":" NEXTGEN VIRTUAL VISIT"},
-{"appointmentType":" NEXTGEN/VIRTUAL VIDEO - AMWELL"},
-{"appointmentType":" NEXTGEN/VIRTUAL VIDEO - OTHER"},
-{"appointmentType":" SCM/EMA VIRTUAL PHONE"},
-{"appointmentType":" SCM/EMA VIRTUAL VIDEO"},
-{"appointmentType":" SCM/EMA VIRTUAL VIDEO - AMWELL"},
-{"appointmentType":" SCM/EMA VIRTUAL VIDEO - OTHER"},
-{"appointmentType":" SCM/EMA VIRTUAL VISIT"},
-{"appointmentType":"APC - ED DISCHARGE"},
-{"appointmentType":"APC - HEALTH COACH"},
-{"appointmentType":"APC - INPATIENT DISCHARGE"},
-{"appointmentType":"APC - MEDICAL CLEARANCE"},
+ 
  ]
 
 ,
