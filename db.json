@@ -27,23 +27,7 @@
 {"appointmentType":"APC - HEALTH COACH"},
 {"appointmentType":"APC - INPATIENT DISCHARGE"},
 {"appointmentType":"APC - MEDICAL CLEARANCE"},
-{"appointmentType":"APC - NEW PATIENT"},
-{"appointmentType":"APC - NURSING VISIT"},
-{"appointmentType":"APC - New Provider/EP"},
-{"appointmentType":"APC - REVISIT"},
-{"appointmentType":"APC - SAME DAY"},
-{"appointmentType":"APC - VISIT"},
-{"appointmentType":"ASP - Diabetic Counseling"},
-{"appointmentType":"ASP - ED DISCHARGE"},{"appointmentType":"ASP - EMG"},{"appointmentType":"ASP - EXPOSURE TESTING"},
-{"appointmentType":"ASP - INPATIENT DISCHARGE"},{"appointmentType":"ASP - MDA New Patient"},
-{"appointmentType":"ASP - MDA Revisit"},{"appointmentType":"ASP - NEURO MOVEMENT"},
-{"appointmentType":"ASP - NEW PATIENT"},{"appointmentType":"ASP - NURSING VISIT"},
-{"appointmentType":"ASP - REVISIT"},{"appointmentType":"ASP - SAME DAY"},{"appointmentType":"ASP - TRAVEL TESTING"},
-{"appointmentType":"ASP - WALK-IN"},{"appointmentType":"BER - CAR FOLLOW UP"},{"appointmentType":"BER - CAR NEW PATIENT"},
-{"appointmentType":"BER - DEVICE CHECK BOSTON/GUIDANT"},{"appointmentType":"BER - DEVICE CHECK MEDTRONIC"},
-{"appointmentType":"BER - DEVICE CHECK ST. JUDE"},{"appointmentType":"BER - DEVICE CHEK BIOTRONIK"},{"appointmentType":"BER - ECHO"},
-{"appointmentType":"BER - HOLTER"},{"appointmentType":"BER - LABS"},{"appointmentType":"BER - PC FOLLOW UP"},
-{"appointmentType":"BER - PC NEW PATIENT"},{"appointmentType":"BER - POST OP"}]
+ ]
 
 ,
 
