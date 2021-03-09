@@ -1,42 +1,41 @@
- {
-	"Status_Appointment": [
-	
-	{
-  "resourceType": "Appointment",   
-  "status": "Appointment Confirmed",
-	},
-	{
-  "resourceType": "Appointment",   
-  "status": "Arrived",
-	},
-	{
-  "resourceType": "Appointment",   
-  "status": "Cancelled",
-	},
-	{
-  "resourceType": "Appointment",   
-  "status": "Departed",
-	},
-	{
-  "resourceType": "Appointment",   
-  "status": "Kept",
-	},
-	{
-  "resourceType": "Appointment",   
-  "status":  "Left Message",
-	},
-	{
-  "resourceType": "Appointment",   
-  "status": "No show",
-	},
-	{
-  "resourceType": "Appointment",   
-  "status":  "Pending",
-	{
-  "resourceType": "Appointment",   
-  "status": "Scheduled"
-	}	
-	]	,
+{
+	"Status_Appointment": [{
+			"resourceType": "Appointment",
+			"status": "Appointment Confirmed"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "Arrived"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "Cancelled"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "Departed"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "Kept"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "Left Message"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "No show"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "Pending"
+		},
+		{
+			"resourceType": "Appointment",
+			"status": "Scheduled"
+		}
+	],
 	"Type_Appointment": [{
 				"appointmentType": " BER - FOLLOW UP"
 			},
@@ -58,66 +57,77 @@
 		,
 
 	"Locations": [
-	
-	{
-  "resourceType": "Location",
-  "id": "6037ea9645aabf02276c9d38",  
-  "address": {
-    "line": [
-      "1175 West Broadway"
-    ]  
-  }
- }
-	
-	{
-  "resourceType": "Location",
-  "id": "6037ea9645aabf02276c9d38",  
-  "address": {
-    "line": [
-      "1175 West Broadway"
-    ]  
-  }
- }
-	
-	{
-  "resourceType": "Location",
-  "id": "6037ea9645aabf02276c9d35",  
-  "address": {
-    "line": [
-      "4802 Tenth Avenue"
-    ]  
-  }
- }
- 
- 
- {
-  "resourceType": "Location",
-  "id": "6037ea9645aabf02276c9d37",  
-  "address": {
-    "line": [
-      "107-21 Queens Blvd"
-    ]  
-  }
- }	
+
+		{
+			"resourceType": "Location",
+			"id": "6037ea9645aabf02276c9d38",
+			"address": {
+				"line": [
+					"1175 West Broadway"
+				]
+			}
+		},
+
+		{
+			"resourceType": "Location",
+			"id": "6037ea9645aabf02276c9d38",
+			"address": {
+				"line": [
+					"1175 West Broadway"
+				]
+			}
+		},
+
+		{
+			"resourceType": "Location",
+			"id": "6037ea9645aabf02276c9d35",
+			"address": {
+				"line": [
+					"4802 Tenth Avenue"
+				]
+			}
+		},
+
+
+		{
+			"resourceType": "Location",
+			"id": "6037ea9645aabf02276c9d37",
+			"address": {
+				"line": [
+					"107-21 Queens Blvd"
+				]
+			}
+		}
 	],
-	
-"Doctor":	[{ 
-  "resourceType" : "Practitioner",  
-  "name" : [{"text":"Pradyumna" }]
-  },{ 
-  "resourceType" : "Practitioner",  
-  "name" : [{"text":"Siva" }]
-  }, {
-  "resourceType" : "Practitioner",  
-  "name" : [{"text":"Aashay" }]
-  }, 
-  {"resourceType" : "Practitioner",  
-  "name" : [{"text":"Meena" }]
-  },{
-  
-   "resourceType" : "Practitioner",  
-  "name" : [{"text":"Anupama" }]
-  } 
-  
-  ]
-  }
+
+	"Doctor": [{
+			"resourceType": "Practitioner",
+			"name": [{
+				"text": "Pradyumna"
+			}]
+		}, {
+			"resourceType": "Practitioner",
+			"name": [{
+				"text": "Siva"
+			}]
+		}, {
+			"resourceType": "Practitioner",
+			"name": [{
+				"text": "Aashay"
+			}]
+		},
+		{
+			"resourceType": "Practitioner",
+			"name": [{
+				"text": "Meena"
+			}]
+		}, {
+
+			"resourceType": "Practitioner",
+			"name": [{
+				"text": "Anupama"
+			}]
+		}
+
+	]
+}
