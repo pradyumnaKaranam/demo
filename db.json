@@ -36,25 +36,38 @@
 			"status": "Scheduled"
 		}
 	],
-	"Type_Appointment": [{
-				"appointmentType": " BER - FOLLOW UP"
-			},
-			{
-				"appointmentType": " BER - PC ANNUAL"
-			},
-			{
-				"appointmentType": " CAN - VIRTUAL PHONE"
-			},
-			{
-				"appointmentType": " CAN - VIRTUAL VIDEO"
-			},
-			{
-				"appointmentType": " CAN - VIRTUAL VIDEO/ AMWELL"
+	"Appointment_type": [{
+			"resourceType": "Appointment",
+			"appointmentType": {
+				"text": " BER - FOLLOW UP"
 			}
+		},
 
-		]
-
-		,
+		{
+			"resourceType": "Appointment",
+			"appointmentType": {
+				"text": " BER - PC ANNUAL"
+			}
+		},
+		{
+			"resourceType": "Appointment",
+			"appointmentType": {
+				"text": " CAN - VIRTUAL PHONE"
+			}
+		},
+		{
+			"resourceType": "Appointment",
+			"appointmentType": {
+				"text": " CAN - VIRTUAL VIDEO"
+			}
+		},
+		{
+			"resourceType": "Appointment",
+			"appointmentType": {
+				"text": " CAN - VIRTUAL VIDEO/ AMWELL"
+			}
+		}
+	],
 
 	"Locations": [
 
