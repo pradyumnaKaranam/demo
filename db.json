@@ -69,15 +69,14 @@
 		}
 	],
 
-	"Locations": [
+	 "Locations": [
 
 		{
 			"resourceType": "Location",
 			"id": "6037ea9645aabf02276c9d38",
 			"address": {
-				"line": [
-					"1175 West Broadway"
-				]
+				"text": "1175 West Broadway"
+				
 			}
 		},
 
@@ -85,9 +84,7 @@
 			"resourceType": "Location",
 			"id": "6037ea9645aabf02276c9d38",
 			"address": {
-				"line": [
-					"1175 West Broadway"
-				]
+				"text": "1175 West Broadway"
 			}
 		},
 
@@ -95,9 +92,7 @@
 			"resourceType": "Location",
 			"id": "6037ea9645aabf02276c9d35",
 			"address": {
-				"line": [
-					"4802 Tenth Avenue"
-				]
+				 "text": "1175 West Broadway"
 			}
 		},
 
@@ -106,9 +101,7 @@
 			"resourceType": "Location",
 			"id": "6037ea9645aabf02276c9d37",
 			"address": {
-				"line": [
-					"107-21 Queens Blvd"
-				]
+				 "text": "1175 West Broadway"
 			}
 		}
 	],
